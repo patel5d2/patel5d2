@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patel5d2
+- 👋 Hi, I’m Dharmin
 - 👀 I’m interested in all types of VM and vulnerability exploiting
 - 🌱 I’m currently learning cyber security
 - 📫 How to reach me dharminp976@gmail.com
