@@ -1,6 +1,7 @@
 <div align="center">
 
-![Screenshot 2024-04-24 230321](https://github.com/NekruzAsh/NekruzAsh/assets/64292629/75735a32-7649-49c2-ab89-41b3c2ba3991)
+
+Dharmin Patel
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f75c7e&random=false&width=435&size=22&lines=Junior%20Cybersecurity%20Student.;Full-Stack%20Web%20Developer.)]()
 
@@ -29,7 +30,6 @@
 
 </p>
 
-- 👋 Hi, I’m Dharmin
 - 👀 I’m interested in all types of VM and vulnerability exploiting
 - 🌱 I’m currently learning cyber security
 - 📫 How to reach me dharminp976@gmail.com
