@@ -3,8 +3,7 @@
 
 <h1> Dharmin Patel </h1>
 
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f75c7e&random=false&width=435&size=22&lines=Junior%20Cybersecurity/Softwere-Dev%20Student.;Full-Stack%20Web%20Developer.)]()
-
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AF738&center=true&multiline=true&random=false&width=435&height=57&lines=Cybersecurity%2FSoftwere-Dev+Student.;3%2B+Years+Of+Coding+Experience.;Cyber+security+Analyst.)](https://git.io/typing-svg)
 </div>
 
 
