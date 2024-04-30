@@ -35,6 +35,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have my own DNS server at my home 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=patel5d2&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!---
 patel5d2/patel5d2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
