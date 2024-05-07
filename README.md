@@ -19,7 +19,7 @@
 <br/>
 
 <p align="center">
- <a href="https://github.com/patel5d2?tab=followers">
+ <a  href="https://github.com/patel5d2?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/patel5d2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
  
 <a href="mailto:dharminp976@gmail.com">
