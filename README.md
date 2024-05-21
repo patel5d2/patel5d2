@@ -30,7 +30,7 @@
 </p>
 
 - 👀 I’m interested in all types of VM and vulnerability exploiting
-- 🌱 I’m currently learning cyber security
+- 🌱 I’m currently learning network security
 - 📫 How to reach me dharminp976@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have my own DNS server at my home 
