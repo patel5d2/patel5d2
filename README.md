@@ -143,9 +143,6 @@ fun_facts:
   </a>
 </div>
 
----
-
----
 
 ## 🎨 Activity Graph
 
