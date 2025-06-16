@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Dharmin%20Patel&fontSize=90&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%7C%20Software%20Developer%20%7C%20Security%20Analyst&descAlignY=51&descAlign=62" />
 </div>
 
-<div align="center">
-  https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&height=60&lines=🔐+Cybersecurity+%26+Software+Development+Student;💻+3%2B+Years+of+Coding+Experience;🛡️+Cybersecurity+Analyst+%26+Researcher;🌐+Network+Security+Enthusiast;⚡+Home+DNS+Server+Administrator)](https://git.io/typing-svg 
-</div>
+
+(https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&height=60&lines=🔐+Cybersecurity+%26+Software+Development+Student;💻+3%2B+Years+of+Coding+Experience;🛡️+Cybersecurity+Analyst+%26+Researcher;🌐+Network+Security+Enthusiast;⚡+Home+DNS+Server+Administrator)](https://git.io/typing-svg) 
+
 
 
 <div align="center">
