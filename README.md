@@ -3,11 +3,9 @@
 </div>
 
 <div align="center">
-  (https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&height=60&lines=🔐+Cybersecurity+%26+Software+Development+Student;💻+3%2B+Years+of+Coding+Experience;🛡️+Cybersecurity+Analyst+%26+Researcher;🌐+Network+Security+Enthusiast;⚡+Home+DNS+Server+Administrator)](https://git.io/typing-svg)
+  (https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&height=60&lines=🔐+Cybersecurity+%26+Software+Development+Student;💻+3%2B+Years+of+Coding+Experience;🛡️+Cybersecurity+Analyst+%26+Researcher;🌐+Network+Security+Enthusiast;⚡+Home+DNS+Server+Administrator)](https://git.io/typing-svg) 
+</div>
 
-</div>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AF738&center=true&random=false&width=435&height=57&lines=Cybersecurity%2FSoftwere-Dev+Student.;3%2B+Years+Of+Coding+Experience.;Cyber+security+Analyst.)](https://git.io/typing-svg)
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=patel5d2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
