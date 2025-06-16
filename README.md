@@ -117,20 +117,6 @@ fun_facts:
 
 </div>
 
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Memory Game](https://github-readme-stats.vercel.app/api/pin/?username=patel5d2&repo=Memory-Game&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/patel5d2/Memory-Game)
-
-</div>
-
-> 🚀 **Memory Game**: Interactive web-based memory matching game built with vanilla JavaScript, featuring responsive design and smooth animations.
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -158,18 +144,6 @@ fun_facts:
 </div>
 
 ---
-
-## 💡 Learning Journey
-
-```mermaid
-graph LR
-    A[Programming Fundamentals] --> B[Web Development]
-    B --> C[Cybersecurity Basics]
-    C --> D[Network Security]
-    D --> E[Penetration Testing]
-    E --> F[Advanced Security Research]
-    F --> G[Security Architecture]
-```
 
 ---
 
