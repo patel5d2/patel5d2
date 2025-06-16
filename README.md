@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  (https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&height=60&lines=🔐+Cybersecurity+%26+Software+Development+Student;💻+3%2B+Years+of+Coding+Experience;🛡️+Cybersecurity+Analyst+%26+Researcher;🌐+Network+Security+Enthusiast;⚡+Home+DNS+Server+Administrator)](https://git.io/typing-svg) 
+  https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&height=60&lines=🔐+Cybersecurity+%26+Software+Development+Student;💻+3%2B+Years+of+Coding+Experience;🛡️+Cybersecurity+Analyst+%26+Researcher;🌐+Network+Security+Enthusiast;⚡+Home+DNS+Server+Administrator)](https://git.io/typing-svg 
 </div>
 
 
